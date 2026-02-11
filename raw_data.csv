@@ -1,0 +1,7 @@
+customer_id,age,city,sales
+1,25,Hyderabad,5000
+2,30,Bangalore,7000
+3,,Chennai,6000
+4,28,Hyderabad,
+5,30,Bangalore,7000
+5,30,Bangalore,7000
